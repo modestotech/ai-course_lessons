@@ -137,4 +137,4 @@ PR: https://github.com/modestotech/azure-tools-interface/pull/5
 
 ### CV Point
 
-Designade och utvecklade med hjälp av agentdriven utveckling (Claude Code) en webbapp som visualiserar åtkomst (genom Azure Entra) till Azure API Management-API:er, samt hur API:erna är uppsatta. Appen visar samband som är svåra att överblicka genom portalen, eller enstaka CLI-anrop. Bland annat följande tekniker användes: React, TypeScript, TanStack Query, React Flow och Tailwind CSS. Den är tillgänglig på https://modestotech.github.io/azure-tools-interface/.
+Se i projekt README: https://github.com/modestotech/azure-tools-interface/blob/main/README.md#cv-punkt
