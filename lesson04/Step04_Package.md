@@ -131,7 +131,7 @@ Ask me if any clarifications are needed.
 
 ## Result
 
-Used AI but did several manual changes as well.
+Used AI but then translated and rewrote manually to conform to template.
 
 PR: https://github.com/modestotech/azure-tools-interface/pull/5
 
